@@ -32,20 +32,20 @@
 
 | 유형 (영어)    | 유형 (한글)      | 설명                                                                                                                                                                                                                               | 예시 이미지                                                                                                                                                                 |
 | :------------- | :--------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Pimples`      | 면포성 여드름    | [cite_start]여드름의 전형적인 형태로, 색에 따라 화이트헤드와 블랙헤드로 불립니다[cite: 23].                                                                                                                                                     | ![Pimples Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_pimples.png?raw=true) *(실제 이미지로 변경)* |
-| `Papular`      | 구진성 여드름    | [cite_start]면포, 붉은 구진, 고름이 든 농포가 많이 형성되어 있습니다[cite: 23].                                                                                                                                                                | ![Papular Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_papular.png?raw=true) *(실제 이미지로 변경)* |
-| `Purulent`     | 화농성 여드름    | [cite_start]여드름이 화농하여 피부 깊숙이 농포를 만들고 있는 단계입니다[cite: 25].                                                                                                                                                            | ![Purulent Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_purulent.png?raw=true) *(실제 이미지로 변경)* |
-| `Blackhead`    | 블랙헤드         | [cite_start]모공이 열려 피지와 노폐물이 산화되어 검게 보이는 여드름입니다[cite: 26].                                                                                                                                                            | ![Blackhead Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_blackhead.png?raw=true) *(실제 이미지로 변경)* |
-| `Cystic`       | 결정성 여드름    | [cite_start]고름이 찬 것처럼 느껴지고 여러 개의 낭종들이 뭉쳐 크기가 더 커지기도 합니다[cite: 25].                                                                                                                                             | ![Cystic Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_cystic.png?raw=true) *(실제 이미지로 변경)* |
-| `Milium`       | 비립종           | [cite_start]피부 표면에 작고 하얀 알갱이 형태로 나타나며 작은 각질 주머니가 있습니다[cite: 26].                                                                                                                                               | ![Milium Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_milium.png?raw=true) *(실제 이미지로 변경)* |
-| `Keloid`       | 켈로이드성 여드름 | [cite_start]화농되는 모낭 염증과 모낭 주위염은 치유 후에도 켈로이드를 형성합니다[cite: 23].                                                                                                                                                     | ![Keloid Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_keloid.png?raw=true) *(실제 이미지로 변경)* |
-| `Folliculitis` | 모낭염           | [cite_start]화장품, 피부 마찰 등 외적 요인으로 손상을 받거나, 피부 면역이 약해져 생깁니다[cite: 24].                                                                                                                                             | ![Folliculitis Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_folliculitis.png?raw=true) *(실제 이미지로 변경)* |
-| `Crystanlline` | 낭종성 여드름    | [cite_start]딱딱하게 만져지는 형태로 초기 단계에 치료하지 않거나 잘못 치료하여 발생합니다[cite: 25].                                                                                                                                           | ![Crystanlline Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_crystanlline.png?raw=true) *(실제 이미지로 변경)* |
-| `Conglobata`   | 응괴성 여드름    | [cite_start]여드름의 가장 심한 형태로 전문가의 상담과 장기적인 치료가 필요합니다[cite: 23].                                                                                                                                                     | ![Conglobata Example](https://github.com/hiinnnii/Dacon_restore/blob/main/images/example_conglobata.png?raw=true) *(실제 이미지로 변경)* |
+| `Pimples`      | 면포성 여드름    | [cite_start]여드름의 전형적인 형태로, 색에 따라 화이트헤드와 블랙헤드로 불립니다[cite: 23].                                                                                                                                                     | ![Pimples Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_pimples.png?raw=true) *(실제 이미지로 변경)* |
+| `Papular`      | 구진성 여드름    | [cite_start]면포, 붉은 구진, 고름이 든 농포가 많이 형성되어 있습니다[cite: 23].                                                                                                                                                                | ![Papular Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_papular.png?raw=true) *(실제 이미지로 변경)* |
+| `Purulent`     | 화농성 여드름    | [cite_start]여드름이 화농하여 피부 깊숙이 농포를 만들고 있는 단계입니다[cite: 25].                                                                                                                                                            | ![Purulent Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_purulent.png?raw=true) *(실제 이미지로 변경)* |
+| `Blackhead`    | 블랙헤드         | [cite_start]모공이 열려 피지와 노폐물이 산화되어 검게 보이는 여드름입니다[cite: 26].                                                                                                                                                            | ![Blackhead Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_blackhead.png?raw=true) *(실제 이미지로 변경)* |
+| `Cystic`       | 결정성 여드름    | [cite_start]고름이 찬 것처럼 느껴지고 여러 개의 낭종들이 뭉쳐 크기가 더 커지기도 합니다[cite: 25].                                                                                                                                             | ![Cystic Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_cystic.png?raw=true) *(실제 이미지로 변경)* |
+| `Milium`       | 비립종           | [cite_start]피부 표면에 작고 하얀 알갱이 형태로 나타나며 작은 각질 주머니가 있습니다[cite: 26].                                                                                                                                               | ![Milium Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_milium.png?raw=true) *(실제 이미지로 변경)* |
+| `Keloid`       | 켈로이드성 여드름 | [cite_start]화농되는 모낭 염증과 모낭 주위염은 치유 후에도 켈로이드를 형성합니다[cite: 23].                                                                                                                                                     | ![Keloid Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_keloid.png?raw=true) *(실제 이미지로 변경)* |
+| `Folliculitis` | 모낭염           | [cite_start]화장품, 피부 마찰 등 외적 요인으로 손상을 받거나, 피부 면역이 약해져 생깁니다[cite: 24].                                                                                                                                             | ![Folliculitis Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_folliculitis.png?raw=true) *(실제 이미지로 변경)* |
+| `Crystanlline` | 낭종성 여드름    | [cite_start]딱딱하게 만져지는 형태로 초기 단계에 치료하지 않거나 잘못 치료하여 발생합니다[cite: 25].                                                                                                                                           | ![Crystanlline Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_crystanlline.png?raw=true) *(실제 이미지로 변경)* |
+| `Conglobata`   | 응괴성 여드름    | [cite_start]여드름의 가장 심한 형태로 전문가의 상담과 장기적인 치료가 필요합니다[cite: 23].                                                                                                                                                     | ![Conglobata Example](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/example_conglobata.png?raw=true) *(실제 이미지로 변경)* |
 
 ## 개발 흐름도
 
-![개발 흐름도](https://github.com/hiinnnii/Dacon_restore/blob/main/images/flowchart.png?raw=true)
+![개발 흐름도](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/flowchart.png?raw=true)
 
 개발 과정은 다음과 같습니다:
 1.  [cite_start]**Acne Image Dataset**: 8678개의 이미지 데이터셋을 사용합니다.
@@ -87,10 +87,6 @@
 
 [cite_start]*초기에는 EfficientNetV2에 비해 비슷하거나 약간 낮은 성능을 보였습니다.*
 
-### 학습 곡선 (초기)
-![초기 Train/Valid Loss](https://github.com/hiinnnii/Dacon_restore/blob/main/images/initial_loss.png?raw=true)
-![초기 Train/Valid Accuracy](https://github.com/hiinnnii/Dacon_restore/blob/main/images/initial_accuracy.png?raw=true)
-
 [cite_start]Transformer 계열 모델은 CNN보다 더 많은 학습 에폭이 필요할 수 있다는 분석을 통해, Early stopping 기준을 `val_loss`에서 `val_acc`로 변경하여 더 많은 에폭 학습을 진행했습니다.
 
 ### 미세 조정 후 최종 결과
@@ -102,38 +98,20 @@
 [cite_start]많은 에폭 학습을 통해 성공적인 성능 향상이 있었습니다.
 
 ### 학습 곡선 (미세 조정 후)
-![미세 조정 후 Train/Valid Loss](https://github.com/hiinnnii/Dacon_restore/blob/main/images/tuned_loss.png?raw=true)
-![미세 조정 후 Train/Valid Accuracy](https://github.com/hiinnnii/Dacon_restore/blob/main/images/tuned_accuracy.png?raw=true)
+![미세 조정 후 Train/Valid Loss](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/tuned_loss.png?raw=true)
+![미세 조정 후 Train/Valid Accuracy](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/tuned_accuracy.png?raw=true)
 
 ### 모델별 Test Accuracy 및 F1-score 결과
-![모델별 성능 비교](https://github.com/hiinnnii/Dacon_restore/blob/main/images/model_comparison.png?raw=true)
+![모델별 성능 비교](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/model_comparison.png?raw=true)
 
 ### Swin-Tiny (튜닝) 레이블별 정확도
-![레이블별 정확도](https://github.com/hiinnnii/Dacon_restore/blob/main/images/label_accuracy.png?raw=true)
+![레이블별 정확도](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/label_accuracy.png?raw=true)
 
 ## 활용 방안 구현 (웹 서비스)
 
 [cite_start]개발된 모델을 활용하여 여드름 이미지를 업로드하고 분류 결과를 확인할 수 있는 웹 서비스를 구현했습니다.
 [cite_start]사용자는 이미지를 업로드하여 여드름 유형을 분류하고, 각 유형에 대한 상세 설명을 얻을 수 있습니다.
 
-![웹 서비스 초기 화면](https://github.com/hiinnnii/Dacon_restore/blob/main/images/web_service_initial.png?raw=true)
-![웹 서비스 분류 예시](https://github.com/hiinnnii/Dacon_restore/blob/main/images/web_service_classification.png?raw=true)
-![웹 서비스 다중 레이블 분류 예시 및 설명](https://github.com/hiinnnii/Dacon_restore/blob/main/images/web_service_multi_label.png?raw=true)
-
-## 프로젝트 실행 방법 (예시)
-
-```bash
-# 1. 저장소 클론
-git clone [https://github.com/hiinnnii/Dacon_restore.git](https://github.com/hiinnnii/Dacon_restore.git)
-cd Dacon_restore
-
-# 2. 필요한 라이브러리 설치 (예: requirements.txt 파일이 있다면)
-pip install -r requirements.txt
-
-# 3. 모델 학습 (옵션)
-# 데이터셋 경로 등을 설정 후 실행
-# python train.py --config configs/swin_tiny.yaml
-
-# 4. 웹 서비스 실행 (옵션)
-# 모델 로딩 경로 등을 설정 후 실행
-# python app.py
+![웹 서비스 초기 화면](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/web_service_initial.png?raw=true)
+![웹 서비스 분류 예시](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/web_service_classification.png?raw=true)
+![웹 서비스 다중 레이블 분류 예시 및 설명](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/web_service_multi_label.png?raw=true)
