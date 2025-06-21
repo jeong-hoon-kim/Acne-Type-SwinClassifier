@@ -1,6 +1,6 @@
 # Swin Transformer를 이용한 여드름 이미지 분류 프로젝트
 
-![Swin Transformer Logo](https://raw.githubusercontent.com/SwinTransformer/Swin-Transformer-Doc/main/imgs/swin_transformer.png)
+![Swin Transformer Logo](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/swin_transformer.jpg)
 
 ## 프로젝트 개요
 
