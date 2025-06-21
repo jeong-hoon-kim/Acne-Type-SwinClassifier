@@ -45,7 +45,7 @@
 
 ## 개발 흐름도
 
-![개발 흐름도](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/flowchart.png?raw=true)
+![개발 흐름도](https://github.com/jeong-hoon-kim/Acne-Type-SwinClassifier/blob/main/images/flowchart.jpg?raw=true)
 
 개발 과정은 다음과 같습니다:
 1.  **Acne Image Dataset**: 8678개의 이미지 데이터셋을 사용합니다.
